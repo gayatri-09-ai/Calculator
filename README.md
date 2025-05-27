@@ -1,4 +1,5 @@
-This is simple calculator
+This is simple calculator.
+
 📌 1. HTML (Structure)
 Defines the layout of the calculator.
 Includes:A display area (e.g., <input> or <div>) to show numbers and results.
